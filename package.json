@@ -9,10 +9,10 @@
   "dependencies": {
     "babel-plugin-component": "^1.1.1",
     "core-js": "^3.6.5",
-    "element-ui": "^2.13.2",
+    "element-ui": "^2.14.1",
     "node-sass": "^4.14.1",
     "sass-loader": "^10.0.3",
-    "simple-time-mj": "^1.0.9",
+    "simple-time-mj": "^2.0.3",
     "vue": "^2.6.11"
   },
   "devDependencies": {
